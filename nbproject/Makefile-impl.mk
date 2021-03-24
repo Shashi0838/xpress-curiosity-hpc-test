@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=xpress-curiosity-hpc-test.X
+PROJECTNAME=xpress-curiosity-hpc-test
 
 # Active Configuration
 DEFAULTCONF=default
